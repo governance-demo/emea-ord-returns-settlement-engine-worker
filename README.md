@@ -1,2 +1,6 @@
 # emea-ord-returns-settlement-engine-worker
-orders / critical / emea
+
+Team: **orders**  
+Tier: **critical**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
